@@ -1,4 +1,4 @@
-Файлы для курсовой по теме "Сравнение классических, эконометрических и моделей машинного обучения прогноза роста ВВП Беларуси":
-1. Гибридно-производственная модель
-2. Гибридно-эконометрическая модель
-3. Модель машинного обучения Random Forest
+Files for coursework on comparison between different models of forecasting economic growth:
+1. classical model
+2. econometric model (linear regression)
+3. ML-model (Random Forest Regression)
